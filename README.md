@@ -2,6 +2,9 @@
 Vanitygen PLUS!  
 -----
 
+**EDITED FOR GAPCOIN**
+
+
 **Download the latest binary from: https://github.com/exploitagency/vanitygen-plus/releases !**  
 
 Note: For generating a Zcash or Zclassic address please see the Z repo: https://github.com/exploitagency/vanitygen_z
