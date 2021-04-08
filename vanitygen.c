@@ -1558,7 +1558,7 @@ main(int argc, char **argv)
 					addrtype = 45;
 					privtype = 128;
 					break;
-			}
+                        }
 			else
 			if (strcmp(optarg, "MNC")== 0) {
 				fprintf(stderr,
@@ -1575,8 +1575,15 @@ main(int argc, char **argv)
 					privtype = 239;
 					break;
 			}
+			else
+			if (strcmp(optarg, "GAP")==0) {
+				fprint(stderr,
+					"Generating Gapcoin Address\n");
+					addrtype = atoi(optarg);
+                        		privtype = 59 + addrtype;
+					break;
+			}
 			break;
-
 /*END ALTCOIN GENERATOR*/
 
 		case 'X':
@@ -1601,6 +1608,11 @@ main(int argc, char **argv)
 				return 1;
 			}
 			break;
+		case 'G':
+                        addrtype = atoi(optarg);
+                        privtype = 59 + addrtype;
+                        scriptaddrtype = addrtype;
+                        break;
 		case 'P': {
 			if (pubkey_base != NULL) {
 				fprintf(stderr,
