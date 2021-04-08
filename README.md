@@ -4,9 +4,9 @@ Vanitygen PLUS!
 
 **EDITED FOR GAPCOIN**
 
- - Example :
- - 
-root@wizz:~/vanitygen-plus# ./vanitygen -C GAP -t 8 -r test
+ Example :
+  
+ - root@wizz:~/vanitygen-plus# ./vanitygen -C GAP -t 8 -r test
 
 Generating GAP Address
 
@@ -17,7 +17,10 @@ GAP Address: GZYuHyqcHdN2jWW1n5vVV6ErEPGaJgtest
 GAP Privkey: 6bZa1cnzCD6CRCD41LD9KQD5FWtk6kpHwuQzE7nBJr4C91ywR8E
 
 
-root@wizz:~/vanitygen-plus# ./vanitygen -C GAP -t 8 GTest
+or
+
+
+ - root@wizz:~/vanitygen-plus# ./vanitygen -C GAP -t 8 GTest
 
 Generating GAP Address
 
