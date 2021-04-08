@@ -35,17 +35,17 @@ GAP Privkey: 6bViL3fAZqboPtui9eJeJNtnop3tRcXpfnYVyL3HpVHDfFRFZhB
 root@DESKTOP-UEP54K6:~/vanitygen-plus#
 
 
-
-
-
-
-
-
-
-
-
-
-
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 **Download the latest binary from: https://github.com/exploitagency/vanitygen-plus/releases !**  
 
 Note: For generating a Zcash or Zclassic address please see the Z repo: https://github.com/exploitagency/vanitygen_z
