@@ -7,17 +7,28 @@ Vanitygen PLUS!
  - Example :
  - 
 root@wizz:~/vanitygen-plus# ./vanitygen -C GAP -t 8 -r test
+
 Generating GAP Address
+
 GAP Pattern: test
+
 GAP Address: GZYuHyqcHdN2jWW1n5vVV6ErEPGaJgtest
+
 GAP Privkey: 6bZa1cnzCD6CRCD41LD9KQD5FWtk6kpHwuQzE7nBJr4C91ywR8E
 
+
 root@wizz:~/vanitygen-plus# ./vanitygen -C GAP -t 8 GTest
+
 Generating GAP Address
+
 Difficulty: 4553521
+
 GAP Pattern: GTest
+
 GAP Address: GTesttW29dg8dSSWbj24VbkZKspfLRGM5M
+
 GAP Privkey: 6bViL3fAZqboPtui9eJeJNtnop3tRcXpfnYVyL3HpVHDfFRFZhB
+
 root@DESKTOP-UEP54K6:~/vanitygen-plus#
 
 
