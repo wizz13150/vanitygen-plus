@@ -36,11 +36,17 @@ root@DESKTOP-UEP54K6:~/vanitygen-plus#
 
 
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 .
 .
 .
