@@ -1142,7 +1142,7 @@ main(int argc, char **argv)
 				fprintf(stderr,
 					"Decrypting Raptoreum Address\n");
 					addrtype_opt = 60;
-					privtype_opt = 128;
+					privtype_opt = 26;
 					break;
 			}
 			else
