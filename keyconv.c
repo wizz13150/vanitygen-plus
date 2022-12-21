@@ -1138,6 +1138,14 @@ main(int argc, char **argv)
 					break;
 			}
 			else
+			if (strcmp(optarg, "RTM")== 0) {
+				fprintf(stderr,
+					"Decrypting Raptoreum Address\n");
+					addrtype_opt = 60;
+					privtype_opt = 128;
+					break;
+			}
+			else
 			if (strcmp(optarg, "VIPS")== 0) {
 				fprintf(stderr,
 					"Decrypting VIPSTARCOIN Address\n");
