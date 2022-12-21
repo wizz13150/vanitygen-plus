@@ -1501,7 +1501,7 @@ main(int argc, char **argv)
 				fprintf(stderr,
 					"Generating Raptoreum Address\n");
 					addrtype = 60;
-					privtype = 128;
+					privtype = 26;
 					break;
 			}
 			else
