@@ -3,7 +3,7 @@ Vanitygen PLUS!
 -----
 
 Command for Raptoreum valid keys :
-./vanitygen -C RVN -t 22 -F compressed -k "RTMEater"
+./vanitygen -C RVN -t 22 -F compressed -k -i RTMEater RTMWizz RTMSalt -o Keys52patterns.txt
 
 
 
